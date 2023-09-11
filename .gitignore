@@ -1,0 +1,13 @@
+# Python environments
+.venv/
+
+# Python compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm IDE
+.idea
+
+# Blender
+*.blend[0-9]
