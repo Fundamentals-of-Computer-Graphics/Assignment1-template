@@ -1,9 +1,5 @@
 # Programming Assignment 1
 
-Class: COMPSCI 459(G), Fall 2023
-
-Professor: Jerald Thomas
-
 ## Overview
 
 In this programming assignment, you are going to complete the first step towards building our renderer: the screen module. As discussed in class, our renderer is going to be composed of several independent modules. The screen module is responsible displaying the result of a render. Specifically, it will provide a class called `Screen` that can take a 2D array of color values and display them on the computer's screen. Please read the entire document before starting the assignment.
